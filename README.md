@@ -3,7 +3,6 @@
 </div>
 
 <hr/>
-<br>
 
 ## About
 
@@ -21,6 +20,11 @@ Aplication for the event [DoWhile-21](https://dowhile.io/inscricao)
 </div>
 
 ## Features
+
+- Full aplication.
+- Login with github.
+- messages in real time, using web-socket.
+- authenticated routes
 
 ## Technologies
 
