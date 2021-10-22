@@ -22,7 +22,8 @@ Aplication for the event [DoWhile-21](https://dowhile.io/inscricao)
 ## Mobile
 
 <div align="center" id="top"> 
-  <img src="https://github.com/Willian-Rodrigues/NextLevelWeek-Heat/blob/master/mobile-react-native/assets/screen.png" height="400px" alt="screen-mobile" style="margin:20px"/>
+  <img src="https://github.com/Willian-Rodrigues/NextLevelWeek-Heat/blob/master/mobile-react-native/assets/screen.png" height="400px" alt="screen-mobile"/>
+  
   <img src="https://github.com/Willian-Rodrigues/NextLevelWeek-Heat/blob/master/mobile-react-native/assets/screen1.png" height="400px" alt="screen-mobile" />
 </div>
 
