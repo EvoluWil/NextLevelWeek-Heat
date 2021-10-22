@@ -8,7 +8,7 @@
 
 Aplication for the event [DoWhile-21](https://dowhile.io/inscricao)
 
-## Screenshots
+## Web
 
 <div align="center" id="top"> 
   <img src="https://github.com/Willian-Rodrigues/NextLevelWeek-Heat/blob/master/web-react/src/assets/screen-web.png" alt="screen-web" />
@@ -19,9 +19,21 @@ Aplication for the event [DoWhile-21](https://dowhile.io/inscricao)
   <img src="https://github.com/Willian-Rodrigues/NextLevelWeek-Heat/blob/master/web-react/src/assets/screen-web1.png" alt="screen-web" />
 </div>
 
+## Mobile
+
+<div align="center" id="top"> 
+  <img src="https://github.com/Willian-Rodrigues/NextLevelWeek-Heat/blob/master/mobile-react-native/assets/screen.png" alt="screen-mobile" />
+</div>
+<br/>
+<br/>
+<div align="center" id="top"> 
+  <img src="https://github.com/Willian-Rodrigues/NextLevelWeek-Heat/blob/master/mobile-react-native/assets/screen1.png" alt="screen-mobile" />
+</div>
+
 ## Features
 
 - Full aplication.
+- web/mobile
 - Login with github.
 - messages in real time, using web-socket.
 - authenticated routes
@@ -31,6 +43,8 @@ Aplication for the event [DoWhile-21](https://dowhile.io/inscricao)
 The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
+- [React-Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
 - [node](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Axios](https://github.com/axios/axios)
@@ -45,6 +59,8 @@ Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](htt
 
 ## Starting
 
+### Backend
+
 ```bash
 # Clone this project
 $ git clone https://github.com/Willian-Rodrigues/NextLevelWeek-Heat
@@ -55,11 +71,35 @@ $ yarn or npm install
 # Run the project
 $ yarn dev or npm run dev
 # The server will initialize in the <http://localhost:4000>
+```
+
+<hr/>
+
+### Frontend
+
+```bash
+# Access
 $ cd NextLevelWeek-Heat/web-react
 # Install dependencies
 $ yarn or npm install
 # Run the project
 $ yarn dev or npm run dev
+# The server will initialize in the <http://localhost:3000>
+```
+
+<hr/>
+
+### Mobile
+
+```bash
+#access
+$ cd NextLevelWeek-Heat/mobile-react-native
+#install expo cli
+$ yarn global add expo-cli or npm install -g expo-cli
+# Install dependencies
+$ yarn or npm install
+# Run the project
+$ yarn start or expo start or npm run start
 # The server will initialize in the <http://localhost:3000>
 ```
 
